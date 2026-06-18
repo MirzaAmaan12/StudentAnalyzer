@@ -1,4 +1,4 @@
-# app.py → FINAL VERSION – GUARANTEED TO WORK (BYPASSES COLUMN NAME CHECK)
+# app.py → FINAL VERSION – GUARANTEED TO WORK (BYPASSES COLUMN NAME CHECK it)
 import streamlit as st
 import pandas as pd
 import joblib
